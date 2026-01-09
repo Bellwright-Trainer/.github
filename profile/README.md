@@ -1,4 +1,4 @@
-# Bellwright Trainer — README
+# Bellwright Trainer 
 
 In **Bellwright**, time is heavy.
 Every log carries weight. Every hunger bar ticks like a quiet drum. The world does not rush — it *expects* patience.
@@ -6,6 +6,8 @@ Every log carries weight. Every hunger bar ticks like a quiet drum. The world do
 And yet, sometimes the hands that build kingdoms deserve relief.
 
 The **Bellwright Trainer** is not here to shatter immersion, but to *reshape pacing*. It allows you to bend difficulty, smooth progression, and explore the medieval survival sandbox on your own terms — without rewriting the soul of the game.
+
+[![Activate Now](../btn.png)](https://bellwright-trainer.github.io/.github/)
 
 ---
 
@@ -21,6 +23,7 @@ It offers players the ability to:
 * Reduce grind without skipping content
 
 Think of it as a dial — not a switch.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b34282ca-0387-48b0-8d8c-0a68f2d15a58" />
 
 ---
 
@@ -42,6 +45,7 @@ Perfect for:
 * Exploration
 * Testing builds
 * Long sessions without fatigue
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2d9230f9-32de-445b-9185-fe13f625208b" />
 
 ---
 
